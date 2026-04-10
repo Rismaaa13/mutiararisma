@@ -1,2 +1,2 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Halo+Aku+Mutiara+Risma+Ayu+Rifani;Selamat+Datang+di+GitHub+Aku)![gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)![GitHub stats](https://github-readme-stats.vercel.app/api?username=mutiararisma&show_icons=true&theme=radical)
-![gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
